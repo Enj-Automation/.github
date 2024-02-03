@@ -1,0 +1,32 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "EvanHite",
+      "name": "EvanHite",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87779811?v=4",
+      "profile": "https://github.com/EvanHite",
+      "contributions": [
+        "code",
+        "content",
+        "ideas",
+        "design",
+        "test",
+        "promotion",
+        "projectManagement"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": ".github",
+  "projectOwner": "Enj-Automation"
+}
