@@ -13,7 +13,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/BenjaminLindberg"><img src="https://avatars.githubusercontent.com/u/95551073?v=4?s=100" width="100px;" alt="Benjamin Lindberg"/><br /><sub><b>Benjamin Lindberg</b></sub></a><br /><a href="#infra-BenjaminLindberg" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/BenjaminLindberg"><img src="https://avatars.githubusercontent.com/u/95551073?v=4?s=100" width="100px;" alt="Benjamin Lindberg"/><br /><sub><b>Benjamin Lindberg</b></sub></a><br /><a href="#infra-BenjaminLindberg" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#security-BenjaminLindberg" title="Security">🛡️</a> <a href="https://github.com/Enj-Automation/.github/commits?author=BenjaminLindberg" title="Code">💻</a> <a href="https://github.com/Enj-Automation/.github/commits?author=BenjaminLindberg" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
