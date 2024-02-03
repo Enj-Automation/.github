@@ -8,6 +8,18 @@
   "commitConvention": "angular",
   "contributors": [
     {
+      "login": "BenjaminLindberg",
+      "name": "Benjamin Lindberg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95551073?v=4",
+      "profile": "https://github.com/BenjaminLindberg",
+      "contributions": [
+        "infra",
+        "security",
+        "code",
+        "doc"
+      ],
+    },
+    {
       "login": "EvanHite",
       "name": "EvanHite",
       "avatar_url": "https://avatars.githubusercontent.com/u/87779811?v=4",
