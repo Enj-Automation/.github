@@ -17,6 +17,21 @@
         "security",
         "code",
         "doc"
+      ],
+    },
+    {
+      "login": "EvanHite",
+      "name": "EvanHite",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87779811?v=4",
+      "profile": "https://github.com/EvanHite",
+      "contributions": [
+        "code",
+        "content",
+        "ideas",
+        "design",
+        "test",
+        "promotion",
+        "projectManagement"
       ]
     }
   ],
